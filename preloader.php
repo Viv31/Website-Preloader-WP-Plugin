@@ -77,7 +77,7 @@ function Preloader_section_MY_PLUGIN_SLUG($links)
 	####################################### END OF FUNCTIONS FOR SETTINGS OF PRELOADER  ##################################################
 	}
 }
-add_action('init','PreloaderSection');
+add_action('init','WebsitePreloader_PreloaderSection');
 
 
 
